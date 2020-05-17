@@ -1,6 +1,7 @@
 import React from 'react'
 import Router from 'next/router'
 import 'src/styles/iosevka.css'
+import 'src/styles/inter.css'
 import 'src/styles/global.css'
 import { AppProps } from 'next/app'
 import reloadTwitterScript from 'src/lib/reloadTwitterScript'
